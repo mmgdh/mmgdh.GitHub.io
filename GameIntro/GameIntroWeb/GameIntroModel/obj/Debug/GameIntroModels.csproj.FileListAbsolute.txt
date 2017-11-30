@@ -1,0 +1,4 @@
+F:\Visual Studio 2015\GameIntroWeb\GameIntroModel\bin\Debug\GameIntroModel.dll
+F:\Visual Studio 2015\GameIntroWeb\GameIntroModel\bin\Debug\GameIntroModel.pdb
+F:\Visual Studio 2015\GameIntroWeb\GameIntroModel\obj\Debug\GameIntroModel.dll
+F:\Visual Studio 2015\GameIntroWeb\GameIntroModel\obj\Debug\GameIntroModel.pdb

@@ -1,0 +1,7 @@
+F:\Visual Studio 2015\GameIntroWeb\GameIntroDAL\obj\Debug\GameIntroDAL.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\GameIntroWeb\GameIntroDAL\bin\Debug\GameIntroDAL.dll
+F:\Visual Studio 2015\GameIntroWeb\GameIntroDAL\bin\Debug\GameIntroDAL.pdb
+F:\Visual Studio 2015\GameIntroWeb\GameIntroDAL\bin\Debug\GameIntroModel.dll
+F:\Visual Studio 2015\GameIntroWeb\GameIntroDAL\bin\Debug\GameIntroModel.pdb
+F:\Visual Studio 2015\GameIntroWeb\GameIntroDAL\obj\Debug\GameIntroDAL.dll
+F:\Visual Studio 2015\GameIntroWeb\GameIntroDAL\obj\Debug\GameIntroDAL.pdb
